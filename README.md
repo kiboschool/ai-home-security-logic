@@ -22,7 +22,7 @@ Here are the rules governing the security system:
 
 ## Your Task:
 In the `main.py` file, follow the to-do comments to:
-1. reate a knowledge base to capture the rules governing the security system. This involves translating the rules mentioned in the assignment into propositional logic symbols and rules.
+1. Create a knowledge base to capture the rules governing the security system. This involves translating the rules mentioned in the assignment into propositional logic symbols and rules.
 2. Implement the `evaluate_security_status` function.
 
 
